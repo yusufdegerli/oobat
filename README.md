@@ -26,8 +26,6 @@
 
 ## 🖼️ Demo Görseller & GIF
 
-> *Şu an placeholder görseller var. Kendi ekran görüntülerini ve demolarını eklediğinde çok daha etkileyici olacaktır.*
-
 ![90s Gaming Vibe GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 
 ![Word Guessing Game UI](https://via.placeholder.com/600x400.png?text=Oobat+%2D+Word+Guess+UI+Placeholder)  
